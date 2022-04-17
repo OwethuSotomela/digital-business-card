@@ -1,9 +1,11 @@
 import React from "react";
 
+import Info from "./components/Info";
+
 export default function App() {
   return (
     <main>
-      <h1>Digital Business Card</h1>
+      <Info />
     </main>
   )
 }
