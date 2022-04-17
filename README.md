@@ -1,4 +1,4 @@
 # Digital Business Card (React-App)
 
 
-A react static page..
+A react static page
